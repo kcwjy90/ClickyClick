@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Rat",
+        "image": "https://www.travelchinaguide.com/images/photogallery/2012/zodiac-rat.png",
+        "year": 1984,
+        "symbol": "鼠"
+    },
+    {
+        "id": 2,
+        "name": "Ox",
+        "image": "https://www.travelchinaguide.com/images/photogallery/2012/zodiac-ox.png",
+        "year": 1985,
+        "symbol": "牛"
+    },
+    {
+        "id": 3,
+        "name": "Tiger",
+        "image":"https://www.travelchinaguide.com/images/photogallery/2012/zodiac-tiger.png",
+        "year": 1986,
+        "symbol": "虎"
+    },
+    {
+        "id": 4,
+        "name": "Rabbit",
+        "image":"https://www.travelchinaguide.com/images/photogallery/2012/zodiac-rabbit.png",
+        "year": 1987,
+        "symbol": "兔"
+    },
+    {
+        "id": 5,
+        "name": "Dragon",
+        "image":"https://www.travelchinaguide.com/images/photogallery/2012/zodiac-dragon.png",
+        "year": 1988,
+        "symbol": "龙"
+    },
+    {
+        "id": 6,
+        "name": "Snake",
+        "image":"https://www.travelchinaguide.com/images/photogallery/2012/zodiac-snake.png",
+        "year": 1989,
+        "symbol": "蛇"
+    },
+    {
+        "id": 7,
+        "name": "Horse",
+        "image":"https://www.travelchinaguide.com/images/photogallery/2012/zodiac-horse.png",
+        "year": 1990,
+        "symbol": "马"
+    },
+    {
+        "id": 8,
+        "name": "Sheep",
+        "image":"https://www.travelchinaguide.com/images/photogallery/2012/zodiac-sheep.png",
+        "year": 1991,
+        "symbol": "羊"
+    },
+    {
+        "id": 9,
+        "name": "Monkey",
+        "image":"https://www.travelchinaguide.com/images/photogallery/2012/zodiac-monkey.png",
+        "year": 1992,
+        "symbol": "猴"
+    },
+    {
+        "id": 10,
+        "name": "Rooster",
+        "image":"https://www.travelchinaguide.com/images/photogallery/2012/zodiac-rooster.png",
+        "year": 1993,
+        "symbol": "鸡"
+    },
+    {
+        "id": 11,
+        "name": "Dog",
+        "image":"https://www.travelchinaguide.com/images/photogallery/2012/zodiac-dog.png",
+        "year": 1994,
+        "symbol": "狗"
+    },
+    {
+        "id": 12,
+        "name": "Pig",
+        "image":"https://www.travelchinaguide.com/images/photogallery/2012/zodiac-pig.png",
+        "year": 1995,
+        "symbol": "猪"
+    }
+]
