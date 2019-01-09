@@ -1,9 +1,14 @@
 /* Style the header */
 .header {
-    background: orange;
+    background: rgb(104, 71, 9);
     color: white;
   }
   
+  .titlescore{
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    text-align: center;
+  }
   
   /* The sticky class is added to the header with JS when it reaches its scroll position */
   .sticky {
